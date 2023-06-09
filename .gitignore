@@ -1,0 +1,6 @@
+facerecog/__pycache__/
+app/__pycache__/
+app/dataset/
+app/trainer/
+app/haarcascade_frontalface_default.xml
+db.sqlite3
